@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println("My Api Print Test")
+	fmt.Println("My Api Quiz1")
 }
